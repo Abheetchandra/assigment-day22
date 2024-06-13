@@ -4,7 +4,7 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background-color: #bdbcae;
+    background-color: #f4f4f1;
     font-family: Arial, sans-serif;
 }
 
@@ -38,6 +38,6 @@ button {
     cursor: pointer;
     border-radius: 5px;
     border: none;
-    color: teal;
+    color: rgb(118, 41, 2);
     font-weight: bold;
 }
